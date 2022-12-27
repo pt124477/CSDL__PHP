@@ -1,0 +1,7 @@
+AV:Anh văn
+HH:Hóa học
+KT:Kinh tế học
+OT:Cơ khí
+SV:Sinh vật học
+TH:Tin học
+VL:Vật lý

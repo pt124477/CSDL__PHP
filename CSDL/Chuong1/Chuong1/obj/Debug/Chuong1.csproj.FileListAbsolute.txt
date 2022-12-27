@@ -1,0 +1,10 @@
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.csproj.AssemblyReference.cache
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.Form1.resources
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.Properties.Resources.resources
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.csproj.GenerateResource.cache
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.csproj.CoreCompileInputs.cache
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\bin\Debug\Chuong1.exe.config
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\bin\Debug\Chuong1.exe
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\bin\Debug\Chuong1.pdb
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.exe
+D:\Truong CDGTVT\ACCESS\Chuong1\Chuong1\obj\Debug\Chuong1.pdb
